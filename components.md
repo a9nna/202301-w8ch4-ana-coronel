@@ -4,17 +4,18 @@
 
 - Current number
 - Former number
+- Operator sign
 
 ## Data modification
 
 - Add digit current number
-- Clear all current number
+- Clear all current number when operator value is "C"
 
-- Add current number
-- Substract numbers
-- Multiply numbers
-- Divide numbers
-- Take the square root of a current number
+- Add current number to former number when operator value is "+"
+- Substract numbers to former number when operator value is "-"
+- Multiply numbers to former number when operator value is "\*"
+- Divide numbers to former number when operator value is "/"
+- Take the square root of a current number when operator value is "sqrt"
 
 # Components
 
